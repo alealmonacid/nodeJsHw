@@ -1,0 +1,21 @@
+{
+  "name": "HWNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node holamundo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alealmonacid/nodeJsHw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alealmonacid/nodeJsHw/issues"
+  },
+  "homepage": "https://github.com/alealmonacid/nodeJsHw#readme"
+}
